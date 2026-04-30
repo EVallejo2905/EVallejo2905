@@ -82,6 +82,10 @@
 - Resultado o aprendizaje: Logré identificar puntos críticos de fuga de usuarios en el proceso de compra.
 - Stack: SQL, Visualización de Datos.
 - Links o Imágenes y gráficos: "https://github.com/EVallejo2905/Proyecto.-An-lisis-de-embudo-y-retenci-n-para-MercadoLibre"
+<img width="977" height="572" alt="image" src="https://github.com/user-attachments/assets/adeef9bf-a280-432f-bf05-be845bcd3e5e" />
+
+<img width="591" height="479" alt="image" src="https://github.com/user-attachments/assets/df64e965-ea75-4b9a-8919-8b4f71a57cea" />
+
 
 <br>
   </p>
