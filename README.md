@@ -35,13 +35,12 @@
  * Represents me.
  *
  * @constructor
- * @param {string} location - Gondia, Maharashtra, India.
- * @param {string} languagues - English, Hindi, Marathi.
+ * @param {string} location - Aguazul, Casanare, Colombia.
+ * @param {string} languagues - Español, English (En proceso de mejora).
  * @param {string} jobTitle - Software Engineer.
- * @param {string} specialization - Building full-fledged Backend systems and iOS applications.
  * @param {string} interests - AI, Distributed Systems & problem-solving.
- * @param {string} hobbies - Trekking, Reading, gaming & playing music.
- * @param {string} education - BTech Computer Engineering, Viswakarma Institute of Technology, Pune.
+ * @param {string} hobbies - Soccer, MTB, Reading, gaming & playing music.
+ * @param {string} education - Electronic Engineering, Fundación Universitaria de San Gil - Sede Yopal, Colombia.
  * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
  * @param {string} stength - Resolute.
  * @param {string} weakness - Shyness.
