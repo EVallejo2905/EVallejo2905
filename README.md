@@ -71,6 +71,7 @@
 - Resultado o aprendizaje: Identifiqué la correlación directa entre el retraso por congestión y la caída en el desempeño económico urbano.
 - Skills: Python | Pandas
 - Links o Imágenes y gráficos: "https://github.com/EVallejo2905/Movilidad-urbana-y-productividad-econ-mica-en-ciudades-de-Latinoam-rica/blob/78390e9486f0a068598bca78a285f48e320c95a5/README.md"
+[Uploading S5 ladb_mobility_economy_project_student.ipynb…]()
 
 <img width="1183" height="530" alt="image" src="https://github.com/user-attachments/assets/97ec1325-df55-4d0d-9f4e-210bb4717f45" />
 
