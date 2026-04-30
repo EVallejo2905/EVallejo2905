@@ -64,13 +64,16 @@
 ----
 	
 <div>
-  <p align="center">
-	<a href="https://github.com/7oSkaaa/LeetCode_DailyChallenge_2023">
-      		<img src="Resultado o aprendizaje: Identifiqué la correlación directa entre el retraso por congestión y la caída en el desempeño económico urbano. " alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Ahmed-Hossam&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
+
+- :school: I am a `Electronic Enginner` at [Faculty of Natural Sciences and Engineering.](https://unisangil.edu.co/?page_id=5267) at [San Gil University Foundation.](https://unisangil.edu.co/).
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a competitive programmer at `Python`, `SQL`, `Google Sheets`.
+- :student: I’m currently learning `Analyst Data`.
+- :trophy: Hobbies: Soccer, running, video games and listening to music..
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`.
+- :boom: You can visit [MY WEBSITE]([https://cutt.ly/Ahmed_Hossam_Website](https://www.linkedin.com/in/edward-vallejo-035aa03b0/).
+<br>
   </p>
 </div>
 </details>
