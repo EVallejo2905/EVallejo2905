@@ -10,19 +10,14 @@
 
 <br><br>
 
-- Título: 🚖 Movilidad urbana y productividad económica en ciudades de Latinoamérica
-- Problema: Identificar en qué ciudades invertir en infraestructura de transporte para mejorar la productividad y el bienestar de la población.
-- Qué hice: Crucé datos de tráfico de TomTom con indicadores económicos de la OECD usando Python y Pandas.
-- Resultado o aprendizaje: Identifiqué la correlación directa entre el retraso por congestión y la caída en el desempeño económico urbano.
-- Skills: Python | Pandas
-- Links o Imágenes y gráficos:
-
-- Título: Análisis de embudo y retención para MercadoLibre
-- Problema: La necesidad de visualizar el comportamiento de los usuarios en el embudo de ventas para reducir el abandono.
-- Qué hice: Transformé tablas de datos mediante SQL en visualizaciones claras para stakeholders.
-- Resultado o aprendizaje: Logré identificar puntos críticos de fuga de usuarios en el proceso de compra.
-- Stack: SQL, Visualización de Datos.
-- Links o Imágenes y gráficos:
+- :school: I am a `Electronic Enginner` at [Faculty of Natural Sciences and Engineering.](https://unisangil.edu.co/?page_id=5267) at [San Gil University Foundation.](https://unisangil.edu.co/).
+- :technologist: I love using Software as a solution for every `Problem`.
+- :computer: I am a competitive programmer at `Python`, `SQL`, `Google Sheets`.
+- :student: I’m currently learning `Analyst Data`.
+- :trophy: Hobbies: Soccer, running, video games and listening to music..
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`.
+- :boom: You can visit [MY WEBSITE]([https://cutt.ly/Ahmed_Hossam_Website](https://www.linkedin.com/in/edward-vallejo-035aa03b0/).
 
 <br>
 
@@ -71,14 +66,22 @@
 	
 <div>
 
-- :school: I am a `Electronic Enginner` at [Faculty of Natural Sciences and Engineering.](https://unisangil.edu.co/?page_id=5267) at [San Gil University Foundation.](https://unisangil.edu.co/).
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Python`, `SQL`, `Google Sheets`.
-- :student: I’m currently learning `Analyst Data`.
-- :trophy: Hobbies: Soccer, running, video games and listening to music..
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`.
-- :boom: You can visit [MY WEBSITE]([https://cutt.ly/Ahmed_Hossam_Website](https://www.linkedin.com/in/edward-vallejo-035aa03b0/).
+- - Título: 🚖 Movilidad urbana y productividad económica en ciudades de Latinoamérica
+- Problema: Identificar en qué ciudades invertir en infraestructura de transporte para mejorar la productividad y el bienestar de la población.
+- Qué hice: Crucé datos de tráfico de TomTom con indicadores económicos de la OECD usando Python y Pandas.
+- Resultado o aprendizaje: Identifiqué la correlación directa entre el retraso por congestión y la caída en el desempeño económico urbano.
+- Skills: Python | Pandas
+- Links o Imágenes y gráficos:
+  
+</div>
+
+- Título: Análisis de embudo y retención para MercadoLibre
+- Problema: La necesidad de visualizar el comportamiento de los usuarios en el embudo de ventas para reducir el abandono.
+- Qué hice: Transformé tablas de datos mediante SQL en visualizaciones claras para stakeholders.
+- Resultado o aprendizaje: Logré identificar puntos críticos de fuga de usuarios en el proceso de compra.
+- Stack: SQL, Visualización de Datos.
+- Links o Imágenes y gráficos:
+- 
 <br>
   </p>
 </div>
