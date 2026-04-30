@@ -17,7 +17,7 @@
 - :trophy: Hobbies: Soccer, running, video games and listening to music..
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.
-- :boom: You can visit [MY WEBSITE]([https://cutt.ly/Ahmed_Hossam_Website](https://www.linkedin.com/in/edward-vallejo-035aa03b0/).
+- :boom: You can visit [MY WEBSITE]([https://cutt.ly/Edward Vallejo_Website](https://www.linkedin.com/in/edward-vallejo-035aa03b0/).
 
 <br>
 
