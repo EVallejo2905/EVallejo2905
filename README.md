@@ -70,10 +70,7 @@
 - Qué hice: Crucé datos de tráfico de TomTom con indicadores económicos de la OECD usando Python y Pandas.
 - Resultado o aprendizaje: Identifiqué la correlación directa entre el retraso por congestión y la caída en el desempeño económico urbano.
 - Skills: Python | Pandas
-- Links o Imágenes y gráficos:
-
-- 
-  
+- Links o Imágenes y gráficos: "https://github.com/EVallejo2905/Movilidad-urbana-y-productividad-econ-mica-en-ciudades-de-Latinoam-rica/blob/78390e9486f0a068598bca78a285f48e320c95a5/README.md"
 
 
 <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> PROYECTO 2
@@ -82,8 +79,8 @@
 - Qué hice: Transformé tablas de datos mediante SQL en visualizaciones claras para stakeholders.
 - Resultado o aprendizaje: Logré identificar puntos críticos de fuga de usuarios en el proceso de compra.
 - Stack: SQL, Visualización de Datos.
-- Links o Imágenes y gráficos:
-- 
+- Links o Imágenes y gráficos: "https://github.com/EVallejo2905/Proyecto.-An-lisis-de-embudo-y-retenci-n-para-MercadoLibre"
+
 <br>
   </p>
 </div>
