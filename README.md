@@ -10,7 +10,7 @@
 
 <br><br>
 
-- :school: I am a `Electronic Enginner` at [Facultad de Ciencias Naturales e Ingenierías](https://unisangil.edu.co/?page_id=5267) at [Fundación Universitaria de San Gil](https://unisangil.edu.co/).
+- :school: I am a `Electronic Enginner` at [Faculty of Natural Sciences and Engineering.](https://unisangil.edu.co/?page_id=5267) at [San Gil University Foundation.](https://unisangil.edu.co/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Python`, `SQL`, `Google Sheets`.
 - :student: I’m currently learning `Analyst Data`.
