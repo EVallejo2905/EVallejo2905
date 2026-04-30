@@ -71,6 +71,8 @@
 - Resultado o aprendizaje: Identifiqué la correlación directa entre el retraso por congestión y la caída en el desempeño económico urbano.
 - Skills: Python | Pandas
 - Links o Imágenes y gráficos:
+
+- 
   
 
 
